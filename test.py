@@ -1,4 +1,4 @@
 import sys
 
-print "Hello Suwini"
+print "Hello world"
 x = input()
